@@ -2,7 +2,7 @@ from eth_account import Account  # noqa: E402
 
 from importlib.metadata import version
 
-__version__ = version("web3")
+__version__ = version("coti-web3")
 
 
 from web3.main import (
