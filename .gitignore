@@ -121,3 +121,5 @@ crashlytics-build.properties
 fabric.properties
 
 # END JetBrains section
+
+env/
