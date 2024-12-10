@@ -56,12 +56,12 @@ setup(
     name="coti-web3",
     # *IMPORTANT*: Don't manually change the version here. Use `make bump`, as described in readme
     version="0.0.0",
-    description="""web3: A Python library for interacting with Ethereum""",
+    description="""coti-web3: A Python library for interacting with the COTI Network""",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="The Ethereum Foundation",
-    author_email="snakecharmers@ethereum.org",
-    url="https://github.com/ethereum/web3.py",
+    author="COTI Development",
+    author_email="dev@coti.io",
+    url="https://github.com/coti-io/coti-web3.py",
     include_package_data=True,
     install_requires=[
         # Note: ethereum-maintained libraries in this list should be added to the
@@ -87,7 +87,7 @@ setup(
     py_modules=["web3", "ens"],
     license="MIT",
     zip_safe=False,
-    keywords="ethereum",
+    keywords=["coti", "privacy", "ethereum", "blockchain", "web3", "garbled-circuits", "l2", "on-chain-compute"],
     packages=find_packages(exclude=["scripts", "scripts.*", "tests", "tests.*"]),
     package_data={"web3": ["py.typed"]},
     classifiers=[
