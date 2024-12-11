@@ -8,7 +8,7 @@
 [![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/coti-web3/)
 [![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/downloads/release/python-31014/)
 
-Welcome to COTI Web3.py, a powerful extension to the popular [web3.py]() library, designed to unlock the full potential of the COTI blockchain network.
+Welcome to COTI Web3.py, a powerful extension to the popular [web3.py](https://pypi.org/project/coti-web3/) library, designed to unlock the full potential of the COTI blockchain network.
 
 This package provides developers with seamless access to all COTI features, extending the standard Web3 functionality to meet the unique requirements of building decentralized applications (dApps) and smart contracts on the COTI ecosystem.
 
