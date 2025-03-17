@@ -55,7 +55,7 @@ with open("./README.md") as readme:
 setup(
     name="coti-web3",
     # *IMPORTANT*: Don't manually change the version here. Use `make bump`, as described in readme
-    version="0.0.0",
+    version='v1.0.4',
     description="""coti-web3: A Python library for interacting with the COTI Network""",
     long_description=long_description,
     long_description_content_type="text/markdown",
