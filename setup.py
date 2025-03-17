@@ -67,7 +67,7 @@ setup(
         # Note: ethereum-maintained libraries in this list should be added to the
         # `install_pre_releases.py` script.
         "eth-abi>=5.0.1",
-        "coti-eth-account>=1.0.0",
+        "coti-eth-account>=1.0.2",
         "eth-hash[pycryptodome]>=0.5.1",
         "eth-typing>=5.0.0",
         "eth-utils>=5.0.0",
@@ -80,7 +80,7 @@ setup(
         "types-requests>=2.0.0",
         "websockets>=10.0.0,<14.0.0",
         "pyunormalize>=15.0.0",
-        "coti-sdk>=1.0.4"
+        "coti-sdk>=1.0.6"
     ],
     python_requires=">=3.8, <4",
     extras_require=extras_require,
