@@ -2,6 +2,7 @@ from enum import Enum
 
 class CotiNetwork(Enum):
     TESTNET = "https://testnet.coti.io/rpc"
+    MAINNET = "https://mainnet.coti.io/rpc"
 
 ACCOUNT_ONBOARD_CONTRACT_ADDRESS = "0x536A67f0cc46513E7d27a370ed1aF9FDcC7A5095"
 
